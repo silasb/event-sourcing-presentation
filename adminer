@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd $HOME/repos
+php -S 0.0.0.0:8000 adminer.php
+
+open 'http://0.0.0.0:8000'
