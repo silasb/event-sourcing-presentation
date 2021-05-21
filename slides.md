@@ -18,7 +18,7 @@ Note: Let's review the classic system that we have today
 # Characteristics
 
 1. Read and write both go through the same layers
-2. We use the mode for read and write access
+2. We use the same model for read and write access
 3. We change data directly
 
 Note: read slides first. This isn't wrong and this works nicely for some applications. It's a proven technology.  We very good reasons for doing the things we been doing, but there might be some drawbacks to this kind of architecture.
