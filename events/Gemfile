@@ -10,7 +10,7 @@ gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
-gem 'sass-rails', '>= 6'
+# gem 'sass-rails', '>= 6'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

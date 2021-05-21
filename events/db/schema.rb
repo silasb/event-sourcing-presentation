@@ -25,7 +25,7 @@ ActiveRecord::Schema.define(version: 2021_04_06_020357) do
     t.string "name"
     t.string "email"
     t.string "password_digest"
-    t.boolean "deleted"
+    t.boolean "deleted", default: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end

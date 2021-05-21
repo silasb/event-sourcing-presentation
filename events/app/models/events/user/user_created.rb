@@ -1,4 +1,4 @@
-class Events::User::Created < Events::User::BaseEvent
+class Events::User::UserCreated < Events::User::BaseEvent
   payload_attributes :name, :email, :password
 
   def apply(user)

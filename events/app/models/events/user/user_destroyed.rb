@@ -1,4 +1,4 @@
-class Events::User::Destroyed < Events::User::BaseEvent
+class Events::User::UserDestroyed < Events::User::BaseEvent
   payload_attributes :id
 
   def apply(user)
