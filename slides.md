@@ -347,8 +347,17 @@ end
 
 ---
 
-# Resources
+# Demo
 
+---
+
+# Questions
+
+---
+
+## Resources / Want to learn more
+
+* [These slides/demo application](https://github.com/silasb/event-sourcing-presentation)
 * [A short talk from Martin Fowler that explains the concepts really well](https://www.youtube.com/watch?v=aweV9FLTZkU)
 * [Kickstarter blog post](https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224)
 * [Kickstarter example application](https://github.com/kickstarter/event-sourcing-rails-todo-app-demo)
@@ -356,5 +365,3 @@ end
 * [Accompanying repo from the above blog post](https://github.com/pcreux/event-sourcing-rails-todo-app-demo)
 * [Event Sourcing explained with diagrams](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
 * [Gradually migrating from CRUD to Event Sourcing](https://www.eventstore.com/blog/a-recipe-for-gradually-migrating-from-crud-to-event-sourcing)
-
----
