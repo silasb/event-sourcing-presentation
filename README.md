@@ -2,7 +2,8 @@
 
 An presentation on [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) and a Demo application.
 
-* `reveal-md slides.md`
+* `reveal-md slides.md` - using the reveal.js to present the slides
+* `event-sourcing-presentation.pdf` - the PDF output of slides.md
 * Event Sourcing Demo application in `events/`
 
 ## Getting started
